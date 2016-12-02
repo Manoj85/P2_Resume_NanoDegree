@@ -8,8 +8,8 @@ $("#header").prepend(formattedRole);
 $("#header").prepend(formattedName);
 
 
-var mobile = "203-548-7488";
-var email = "mano854t@gmail.com";
+var mobile = "xxx-xxx-xxxx";
+var email = "xxxxx@gmail.com";
 var github = "Manoj85";
 var twitter = "@Mano854T";
 var location1 = "Stamford, CT";
@@ -31,15 +31,15 @@ var bio = {
     "name" : "Manoj Talagadadeevi",
     "role" : "Front End Web/UI Developer",
     "contacts" : {
-        "mobile" : "203-548-7488",
-        "email" : "mano854t@gmail.com",
+        "mobile" : "xxx-xxx-xxxx",
+        "email" : "xxxxx@gmail.com",
         "github" : "Manoj85",
         "twitter" : "@Mano854T",
         "location" : "Stamford, CT"
     },
     "welcomeMessage" : "Front-end ninja from New York",
     "skills" : [
-        "HTML5", "JavaScript", "AngularJS", "CSS3", "Responsive Web Design"
+        "AngularJS", "AngularJS2", "HTML5", "JavaScript", "TypeScript" , "CSS3", "Responsive Web Design"
     ],
     "bioPic" : "images/me.jpg"
 };
